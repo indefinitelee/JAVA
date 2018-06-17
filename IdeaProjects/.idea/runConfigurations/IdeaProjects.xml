@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="IdeaProjects" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <module name="IdeaProjects" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>
